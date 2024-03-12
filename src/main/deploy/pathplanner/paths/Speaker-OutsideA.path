@@ -1,0 +1,49 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 2.25,
+        "y": 5.55
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 2.1142228327713646,
+        "y": 6.354218605892682
+      },
+      "isLocked": false,
+      "linkedName": "SpeakerShootingPosition"
+    },
+    {
+      "anchor": {
+        "x": 2.860058646325945,
+        "y": 6.663525591682228
+      },
+      "prevControl": {
+        "x": 2.745170274055563,
+        "y": 5.901084575706049
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "Outside Position A"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": null,
+  "useDefaultConstraints": false
+}
