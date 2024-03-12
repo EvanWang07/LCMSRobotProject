@@ -28,7 +28,7 @@ public final class Constants {
         public static final double percentBasePercentDriveOutput = 0.2; // The percent amount of basePercentDriveOutput; used in d_slowMode
         public static final double maxBasePercentArmOutput = 0.6; // The percent motor output for the arm motors
         public static final double percentMaxBasePercentArmOutput = 0.5; // The percent amount of maxBasePercentArmOutput; used in w_slowMode
-        public static final double basePercentDJMotorOutput = 0.4; // The percent motor output for the DJ motor
+        public static final double basePercentDJMotorOutput = 0.3; // The percent motor output for the DJ motor
         public static final double basePercentShooterMotorOutput = 0.8; // The percent motor output for the shooter motors
         public static final double basePercentClimberOutput = 0.75; // The percent motor output for the climber motors
 
